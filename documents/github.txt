@@ -1,0 +1,3 @@
+GitHub is a platform where developers store code.
+It uses Git.
+Many open source projects are hosted here.
